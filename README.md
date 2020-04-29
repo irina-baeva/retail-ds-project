@@ -1,6 +1,7 @@
 # No-food-waste
 
-> Abstract here...
+Current report contains work with the dataset provided by "CODE" university partner - "Metronom". "Metronom" is a part of the huge german retailer company "Metro". Time interval of the data set - is a period berween 1st to 31th of January 2020. During the work on the data set we defined the main target values for invistigation: shrinkage in euro, sales in euro and stock in euro.
+Initial goal for the report was to find out if such a huge retailer company as "Metro" could reduce the food waste. However, during the analyse process, the goal was adapting to the realities of the bisiness and possibility to get insider information and in the end changed towards explanatory data analysis through visualizations using Python libraries and statistical methods.
 
 Reqired libraries:
 
@@ -21,7 +22,7 @@ Create virtual environment
 python3 -m venv .venv
 ```
 
-Activate
+Activate virtual environment
 
 ```sh
 source .venv/bin/activate
