@@ -1,4 +1,4 @@
-# No-food-waste
+# Exploratory analysis of sales and shrinkage
 
 Current report contains work with the dataset provided by "CODE" university partner "Metronom". "Metronom" is a part of the huge german retailer company "Metro". The data contains information from the one german store. Time interval of the data set - is a period between 1st to 31th of January 2020.
 
