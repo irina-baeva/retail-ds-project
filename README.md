@@ -21,6 +21,12 @@ The data set was provided by one of the biggest german retail companies **["METR
 
 You will need Python 3 installed on your computer.
 
+Clone the project
+
+```sh
+git clone https://github.com/irina-baeva/retail-ds-project.git
+```
+
 Create virtual environment
 
 ```sh
